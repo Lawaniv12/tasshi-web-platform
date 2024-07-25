@@ -658,7 +658,7 @@ p {
 
 .sticky .navbar-nav .nav-item a.active,
 .sticky .navbar-nav .nav-item a:hover {
-  color: #fe7a7b;
+  color: #1E7E34;
 }
 
 /*===== HEADER HERO =====*/
@@ -892,7 +892,7 @@ p {
   margin-top: 30px;
   font-size: 16px;
   font-weight: 400;
-  color: #fe7a7b;
+  color: #1E7E34;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
 }
@@ -908,7 +908,7 @@ p {
 }
 
 .single-services:hover {
-  border-color: #fe7a7b;
+  border-color: #1E7E34;
 }
 
 .single-services:hover .services-icon .shape {
